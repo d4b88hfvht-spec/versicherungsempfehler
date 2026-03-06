@@ -107,8 +107,8 @@
       "karriereplus": "ja"
     },
     "matching": {
-      "berufe": ["Schüler"],
-      "berufe_nicht": null,
+      "berufe": null,
+      "berufe_nicht": ["Schüler"],
       "alter_min": 18,
       "alter_max": 30,
       "max_rente": 2000
