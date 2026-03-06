@@ -1,0 +1,59 @@
+{
+  "filter": [
+    {
+      "typ": "typ_match",
+      "produkt_feld": "typ",
+      "user_feld": "typ"
+    },
+    {
+      "typ": "schicht_match",
+      "produkt_feld": "schicht",
+      "user_feld": "schicht"
+    },
+    {
+      "typ": "beruf_in_liste",
+      "produkt_feld": "berufe",
+      "user_feld": "beruf"
+    },
+    {
+      "typ": "beruf_nicht",
+      "produkt_feld": "berufe_nicht",
+      "user_feld": "beruf"
+    },
+    {
+      "typ": "alter_min",
+      "produkt_feld": "alter_min",
+      "user_feld": "alter"
+    },
+    {
+      "typ": "alter_max",
+      "produkt_feld": "alter_max",
+      "user_feld": "alter"
+    },
+    {
+      "typ": "max_rente",
+      "produkt_feld": "max_rente",
+      "user_feld": "wuensche_rente"
+    }
+  ],
+  "scoring": [
+    {
+      "typ": "beruf_match",
+      "produkt_feld": "berufe",
+      "user_feld": "beruf",
+      "punkte": 30
+    },
+    {
+      "typ": "schicht_bonus",
+      "produkt_feld": "schicht",
+      "user_feld": "schicht",
+      "punkte": 10
+    },
+    {
+      "typ": "typ_bonus",
+      "produkt_feld": "typ",
+      "user_feld": "typ",
+      "punkte": 10
+    }
+  ]
+}

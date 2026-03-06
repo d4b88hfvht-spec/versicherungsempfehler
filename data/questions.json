@@ -1,0 +1,27 @@
+[
+  {
+    "key": "beruf",
+    "frage": "Welchen Beruf übst du aus?",
+    "typ": "text"
+  },
+  {
+    "key": "alter",
+    "frage": "Wie alt bist du?",
+    "typ": "zahl"
+  },
+  {
+    "key": "wuensche_rente",
+    "frage": "Wie hoch soll die BU-Rente sein (in EUR)?",
+    "typ": "zahl"
+  },
+  {
+    "key": "schicht",
+    "frage": "In welcher Schicht soll das Produkt sein? (1, 2 oder 3)",
+    "typ": "zahl"
+  },
+  {
+    "key": "typ",
+    "frage": "Bevorzugst du BUZ-B, BUZ-BR oder SBU?",
+    "typ": "text"
+  }
+]

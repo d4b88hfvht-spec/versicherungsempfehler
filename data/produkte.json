@@ -1,0 +1,439 @@
+[
+  {
+    "name": "BUZ-B Gold",
+    "typ": "BUZ-B",
+    "schicht": 1,
+    "info": {
+      "leistungsumfang": "350 EUR max. Zahlbeitrag",
+      "abkommensnummer": "nicht erforderlich",
+      "wartezeit": "36 Monate",
+      "gesundheitserklärung": "keine",
+      "beitragsdynamik": "0 - 5%",
+      "hv-airbag": "0 - 5%",
+      "freie_phase": null,
+      "gebundene_phase": null,
+      "karriereplus": null
+    },
+    "matching": {
+      "berufe": null,
+      "berufe_nicht": null,
+      "alter_min": 15,
+      "alter_max": 55,
+      "max_rente": null
+    }
+  },
+  {
+    "name": "BUZ-B Basis",
+    "typ": "BUZ-B",
+    "schicht": 3,
+    "info": {
+      "leistungsumfang": "350 EUR max. Zahlbeitrag",
+      "abkommensnummer": "nicht erforderlich",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "vereinfacht",
+      "beitragsdynamik": "0 - 5%",
+      "hv-airbag": "0 - 5%",
+      "freie_phase": null,
+      "gebundene_phase": null,
+      "karriereplus": null
+    },
+    "matching": {
+      "berufe": null,
+      "berufe_nicht": null,
+      "alter_min": 18,
+      "alter_max": 55,
+      "max_rente": null
+    }
+  },
+  {
+    "name": "BUZ-B",
+    "typ": "BUZ-B",
+    "schicht": 2,
+    "info": {
+      "leistungsumfang": "8% BBG",
+      "abkommensnummer": "nicht erforderlich",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "DFE",
+      "beitragsdynamik": "0 - 5%",
+      "hv-airbag": null,
+      "freie_phase": null,
+      "gebundene_phase": null,
+      "karriereplus": null
+    },
+    "matching": {
+      "berufe": null,
+      "berufe_nicht": null,
+      "alter_min": 15,
+      "alter_max": 55,
+      "max_rente": null
+    }
+  },
+  {
+    "name": "PLATIN 2 Go 2.0",
+    "typ": "BUZ-BR",
+    "schicht": 1,
+    "info": {
+      "leistungsumfang": "400 EUR max. Zahlbeitrag",
+      "abkommensnummer": "44-1040811",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "vereinfacht",
+      "beitragsdynamik": "0 - 5%",
+      "hv-airbag": "0 - 5%",
+      "freie_phase": "nein",
+      "gebundene_phase": "ja",
+      "karriereplus": "nein"
+    },
+    "matching": {
+      "berufe": null,
+      "berufe_nicht": null,
+      "alter_min": 18,
+      "alter_max": 55,
+      "max_rente": 2500
+    }
+  },
+  {
+    "name": "FUTURE 2 Go",
+    "typ": "SBU",
+    "schicht": 3,
+    "info": {
+      "leistungsumfang": null,
+      "abkommensnummer": "44-1065434",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "vereinfacht",
+      "beitragsdynamik": "0 - 5%",
+      "hv-airbag": null,
+      "freie_phase": "nein",
+      "gebundene_phase": "ja",
+      "karriereplus": "ja"
+    },
+    "matching": {
+      "berufe": ["Schüler"],
+      "berufe_nicht": null,
+      "alter_min": 18,
+      "alter_max": 30,
+      "max_rente": 2000
+    }
+  },
+  {
+    "name": "Steuerberater BUZ-BR 1",
+    "typ": "BUZ-BR",
+    "schicht": 1,
+    "info": {
+      "leistungsumfang": "je nach Verband",
+      "abkommensnummer": "keine",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "vereinfacht",
+      "beitragsdynamik": "0 - 10%",
+      "hv-airbag": "0 - 10%",
+      "freie_phase": "nein",
+      "gebundene_phase": "ja",
+      "karriereplus": "nein"
+    },
+    "matching": {
+      "berufe": ["Steuerberater"],
+      "berufe_nicht": null,
+      "alter_min": 18,
+      "alter_max": 55,
+      "max_rente": 2000
+    }
+  },
+  {
+    "name": "Steuerberater BUZ-BR 2",
+    "typ": "BUZ-BR",
+    "schicht": 2,
+    "info": {
+      "leistungsumfang": "je nach Verband",
+      "abkommensnummer": "keine",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "vereinfacht",
+      "beitragsdynamik": "0 - 10%",
+      "hv-airbag": null,
+      "freie_phase": "nein",
+      "gebundene_phase": "ja",
+      "karriereplus": "nein"
+    },
+    "matching": {
+      "berufe": ["Steuerberater"],
+      "berufe_nicht": null,
+      "alter_min": 18,
+      "alter_max": 60,
+      "max_rente": 2500
+    }
+  },
+  {
+    "name": "Steuerberater SBU",
+    "typ": "SBU",
+    "schicht": 3,
+    "info": {
+      "leistungsumfang": "je nach Verband",
+      "abkommensnummer": "keine",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "vereinfacht",
+      "beitragsdynamik": "0 - 5%",
+      "hv-airbag": null,
+      "freie_phase": "nein",
+      "gebundene_phase": "ja",
+      "karriereplus": "nein"
+    },
+    "matching": {
+      "berufe": ["Steuerberater"],
+      "berufe_nicht": null,
+      "alter_min": 18,
+      "alter_max": 55,
+      "max_rente": 2000
+    }
+  },
+  {
+    "name": "Rechtsanwälte BUZ-BR 1",
+    "typ": "BUZ-BR",
+    "schicht": 1,
+    "info": {
+      "leistungsumfang": "44-1036233",
+      "abkommensnummer": "keine",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "vereinfacht",
+      "beitragsdynamik": "0 - 10%",
+      "hv-airbag": "0 - 10%",
+      "freie_phase": "nein",
+      "gebundene_phase": "ja",
+      "karriereplus": "nein"
+    },
+    "matching": {
+      "berufe": ["Rechtsanwalt", "Jurist", "Notar", "Richter", "Staatsanwalt"],
+      "berufe_nicht": null,
+      "alter_min": 18,
+      "alter_max": 55,
+      "max_rente": 2000
+    }
+  },
+  {
+    "name": "Rechtsanwälte BUZ-BR 2",
+    "typ": "BUZ-BR",
+    "schicht": 2,
+    "info": {
+      "leistungsumfang": "44-1036233",
+      "abkommensnummer": "keine",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "vereinfacht",
+      "beitragsdynamik": "0 - 10%",
+      "hv-airbag": null,
+      "freie_phase": "nein",
+      "gebundene_phase": "ja",
+      "karriereplus": "nein"
+    },
+    "matching": {
+      "berufe": ["Rechtsanwalt", "Jurist", "Notar", "Richter", "Staatsanwalt"],
+      "berufe_nicht": null,
+      "alter_min": 18,
+      "alter_max": 60,
+      "max_rente": 2500
+    }
+  },
+  {
+    "name": "Rechtsanwälte SBU",
+    "typ": "SBU",
+    "schicht": 3,
+    "info": {
+      "leistungsumfang": "44-1036233",
+      "abkommensnummer": "keine",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "vereinfacht",
+      "beitragsdynamik": "0 - 5%",
+      "hv-airbag": null,
+      "freie_phase": "nein",
+      "gebundene_phase": "ja",
+      "karriereplus": "nein"
+    },
+    "matching": {
+      "berufe": ["Rechtsanwalt", "Jurist", "Notar", "Richter", "Staatsanwalt"],
+      "berufe_nicht": null,
+      "alter_min": 18,
+      "alter_max": 55,
+      "max_rente": 2000
+    }
+  },
+  {
+    "name": "Ärzte-Konzept BUZ-BR 1",
+    "typ": "BUZ-BR",
+    "schicht": 1,
+    "info": {
+      "leistungsumfang": "44-1040785",
+      "abkommensnummer": "keine",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "vereinfacht",
+      "beitragsdynamik": "0 - 10%",
+      "hv-airbag": "0 - 10%",
+      "freie_phase": "nein",
+      "gebundene_phase": "ja",
+      "karriereplus": "nein"
+    },
+    "matching": {
+      "berufe": ["Allgemeinmediziner", "Radiologe", "Apotheker"],
+      "berufe_nicht": null,
+      "alter_min": 18,
+      "alter_max": 49,
+      "max_rente": 2500
+    }
+  },
+  {
+    "name": "Ärzte-Konzept BUZ-BR 2",
+    "typ": "BUZ-BR",
+    "schicht": 2,
+    "info": {
+      "leistungsumfang": "44-1040785",
+      "abkommensnummer": "keine",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "vereinfacht",
+      "beitragsdynamik": "0 - 10%",
+      "hv-airbag": null,
+      "freie_phase": "nein",
+      "gebundene_phase": "ja",
+      "karriereplus": "nein"
+    },
+    "matching": {
+      "berufe": ["Allgemeinmediziner", "Radiologe", "Apotheker"],
+      "berufe_nicht": null,
+      "alter_min": 18,
+      "alter_max": 49,
+      "max_rente": 2500
+    }
+  },
+  {
+    "name": "Ärzte-Konzept SBU",
+    "typ": "SBU",
+    "schicht": 3,
+    "info": {
+      "leistungsumfang": "44-1040785",
+      "abkommensnummer": "keine",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "vereinfacht",
+      "beitragsdynamik": "0 - 5%",
+      "hv-airbag": null,
+      "freie_phase": "nein",
+      "gebundene_phase": "ja",
+      "karriereplus": "nein"
+    },
+    "matching": {
+      "berufe": ["Allgemeinmediziner", "Radiologe", "Apotheker"],
+      "berufe_nicht": null,
+      "alter_min": 18,
+      "alter_max": 49,
+      "max_rente": 2500
+    }
+  },
+  {
+    "name": "Duales Modell TOP BUZ-BR 1",
+    "typ": "BUZ-BR",
+    "schicht": 1,
+    "info": {
+      "leistungsumfang": "individuell",
+      "abkommensnummer": "keine",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "vereinfacht",
+      "beitragsdynamik": "0 - 10%",
+      "hv-airbag": "0 - 10%",
+      "freie_phase": "nein",
+      "gebundene_phase": "ja",
+      "karriereplus": "nein"
+    },
+    "matching": {
+      "berufe": ["A", "B", "C"],
+      "berufe_nicht": ["Schüler"],
+      "alter_min": 18,
+      "alter_max": 55,
+      "max_rente": 2000
+    }
+  },
+  {
+    "name": "Duales Modell TOP BUZ-BR 2",
+    "typ": "BUZ-BR",
+    "schicht": 2,
+    "info": {
+      "leistungsumfang": "individuell",
+      "abkommensnummer": "keine",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "vereinfacht",
+      "beitragsdynamik": "BBG",
+      "hv-airbag": null,
+      "freie_phase": "nein",
+      "gebundene_phase": "ja",
+      "karriereplus": "nein"
+    },
+    "matching": {
+      "berufe": ["A", "B", "C"],
+      "berufe_nicht": ["Schüler"],
+      "alter_min": 18,
+      "alter_max": 60,
+      "max_rente": 2500
+    }
+  },
+  {
+    "name": "Duales Modell TOP SBU",
+    "typ": "SBU",
+    "schicht": 3,
+    "info": {
+      "leistungsumfang": "individuell",
+      "abkommensnummer": "keine",
+      "wartezeit": "keine",
+      "gesundheitserklärung": "vereinfacht",
+      "beitragsdynamik": "0 - 5%",
+      "hv-airbag": "0 - 10%",
+      "freie_phase": "nein",
+      "gebundene_phase": "ja",
+      "karriereplus": "nein"
+    },
+    "matching": {
+      "berufe": ["A", "B", "C"],
+      "berufe_nicht": ["Schüler"],
+      "alter_min": 18,
+      "alter_max": 55,
+      "max_rente": 2000
+    }
+  },
+  {
+    "name": "Duales Modell Basis BUZ-BR",
+    "typ": "BUZ-BR",
+    "schicht": 2,
+    "info": {
+      "leistungsumfang": "individuell",
+      "abkommensnummer": "60 Monate",
+      "wartezeit": "DFE",
+      "gesundheitserklärung": "0 - 3%",
+      "beitragsdynamik": null,
+      "hv-airbag": null,
+      "freie_phase": null,
+      "gebundene_phase": null,
+      "karriereplus": null
+    },
+    "matching": {
+      "berufe": ["A", "B"],
+      "berufe_nicht": ["Schüler"],
+      "alter_min": 18,
+      "alter_max": 60,
+      "max_rente": 2500
+    }
+  },
+  {
+    "name": "Duales Modell Basis SBU",
+    "typ": "SBU",
+    "schicht": 3,
+    "info": {
+      "leistungsumfang": "individuell",
+      "abkommensnummer": "60 Monate",
+      "wartezeit": "DFE",
+      "gesundheitserklärung": "0 - 3%",
+      "beitragsdynamik": null,
+      "hv-airbag": null,
+      "freie_phase": null,
+      "gebundene_phase": null,
+      "karriereplus": null
+    },
+    "matching": {
+      "berufe": ["A", "B"],
+      "berufe_nicht": ["Schüler"],
+      "alter_min": 18,
+      "alter_max": 55,
+      "max_rente": 2000
+    }
+  }
+]
