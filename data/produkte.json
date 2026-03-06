@@ -88,7 +88,7 @@
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 55,
-      "max_rente": 2500
+      "max_rente": "2.500 EUR"
     }
   },
   {
@@ -111,7 +111,7 @@
       "berufe_nicht": ["Schüler"],
       "alter_min": 18,
       "alter_max": 30,
-      "max_rente": 2000
+      "max_rente": "2.000 EUR"
     }
   },
   {
@@ -157,7 +157,7 @@
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 60,
-      "max_rente": 2500
+      "max_rente": "2.500 EUR"
     }
   },
   {
@@ -180,7 +180,7 @@
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 55,
-      "max_rente": 2000
+      "max_rente": "2.000 EUR"
     }
   },
   {
@@ -203,7 +203,7 @@
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 55,
-      "max_rente": 2000
+      "max_rente": "2.000 EUR"
     }
   },
   {
@@ -226,7 +226,7 @@
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 60,
-      "max_rente": 2500
+      "max_rente": "2.500 EUR"
     }
   },
   {
@@ -249,7 +249,7 @@
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 55,
-      "max_rente": 2000
+      "max_rente": "2.000 EUR"
     }
   },
   {
@@ -272,7 +272,7 @@
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 49,
-      "max_rente": 2500
+      "max_rente": "2.500 EUR"
     }
   },
   {
@@ -295,7 +295,7 @@
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 49,
-      "max_rente": 2500
+      "max_rente": "2.500 EUR"
     }
   },
   {
@@ -318,7 +318,7 @@
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 49,
-      "max_rente": 2500
+      "max_rente": "2.500 EUR"
     }
   },
   {
@@ -341,7 +341,7 @@
       "berufe_nicht": ["Schüler"],
       "alter_min": 18,
       "alter_max": 55,
-      "max_rente": 2000
+      "max_rente": "2.000 EUR"
     }
   },
   {
@@ -364,7 +364,7 @@
       "berufe_nicht": ["Schüler"],
       "alter_min": 18,
       "alter_max": 60,
-      "max_rente": 2500
+      "max_rente": "2.500 EUR"
     }
   },
   {
@@ -387,7 +387,7 @@
       "berufe_nicht": ["Schüler"],
       "alter_min": 18,
       "alter_max": 55,
-      "max_rente": 2000
+      "max_rente": "2.000 EUR"
     }
   },
   {
@@ -410,7 +410,7 @@
       "berufe_nicht": ["Schüler"],
       "alter_min": 18,
       "alter_max": 60,
-      "max_rente": 2500
+      "max_rente": "2.500 EUR"
     }
   },
   {
@@ -433,7 +433,7 @@
       "berufe_nicht": ["Schüler"],
       "alter_min": 18,
       "alter_max": 55,
-      "max_rente": 2000
+      "max_rente": "2.000 EUR"
     }
   }
 ]
