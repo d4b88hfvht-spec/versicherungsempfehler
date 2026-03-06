@@ -130,7 +130,7 @@ def render_produktkarte(p, score):
 <div class="section-title"><span>📦</span><span>Leistungsumfang</span></div>
 <div class="info-grid">
 {row("Leistung", info.get("leistungsumfang"))}
-{row("Max. Rente", p["matching"].get("max_rente"))}
+{row("Max. Rente", info.get("max_rente_display") or p["matching"].get("max_rente"))}
 </div>
 
 <div class="section-title"><span>⚙️</span><span>Konditionen</span></div>
