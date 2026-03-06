@@ -119,8 +119,8 @@
     "typ": "BUZ-BR",
     "schicht": 1,
     "info": {
-      "leistungsumfang": "je nach Verband",
-      "abkommensnummer": "keine",
+      "leistungsumfang": null,
+      "abkommensnummer": "je nach Verband",
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 10%",
@@ -142,8 +142,8 @@
     "typ": "BUZ-BR",
     "schicht": 2,
     "info": {
-      "leistungsumfang": "je nach Verband",
-      "abkommensnummer": "keine",
+      "leistungsumfang": null,
+      "abkommensnummer": "je nach Verband",
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 10%",
@@ -165,8 +165,8 @@
     "typ": "SBU",
     "schicht": 3,
     "info": {
-      "leistungsumfang": "je nach Verband",
-      "abkommensnummer": "keine",
+      "leistungsumfang": null,
+      "abkommensnummer": "Je nach Verband",
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 5%",
@@ -188,8 +188,8 @@
     "typ": "BUZ-BR",
     "schicht": 1,
     "info": {
-      "leistungsumfang": "44-1036233",
-      "abkommensnummer": "keine",
+      "leistungsumfang": "",
+      "abkommensnummer": "44-1036233",
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 10%",
@@ -211,8 +211,8 @@
     "typ": "BUZ-BR",
     "schicht": 2,
     "info": {
-      "leistungsumfang": "44-1036233",
-      "abkommensnummer": "keine",
+      "leistungsumfang": "",
+      "abkommensnummer": "44-1036233",
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 10%",
@@ -234,8 +234,8 @@
     "typ": "SBU",
     "schicht": 3,
     "info": {
-      "leistungsumfang": "44-1036233",
-      "abkommensnummer": "keine",
+      "leistungsumfang": "",
+      "abkommensnummer": "44-1036233",
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 5%",
@@ -257,8 +257,8 @@
     "typ": "BUZ-BR",
     "schicht": 1,
     "info": {
-      "leistungsumfang": "44-1040785",
-      "abkommensnummer": "keine",
+      "leistungsumfang": "",
+      "abkommensnummer": "44-1040785",
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 10%",
@@ -280,8 +280,8 @@
     "typ": "BUZ-BR",
     "schicht": 2,
     "info": {
-      "leistungsumfang": "44-1040785",
-      "abkommensnummer": "keine",
+      "leistungsumfang": "",
+      "abkommensnummer": "44-1040785",
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 10%",
@@ -303,8 +303,8 @@
     "typ": "SBU",
     "schicht": 3,
     "info": {
-      "leistungsumfang": "44-1040785",
-      "abkommensnummer": "keine",
+      "leistungsumfang": "",
+      "abkommensnummer": "44-1040785",
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 5%",
@@ -395,15 +395,15 @@
     "typ": "BUZ-BR",
     "schicht": 2,
     "info": {
-      "leistungsumfang": "individuell",
-      "abkommensnummer": "60 Monate",
-      "wartezeit": "DFE",
-      "gesundheitserklärung": "0 - 3%",
-      "beitragsdynamik": null,
+      "leistungsumfang": "",
+      "abkommensnummer": "individuell",
+      "wartezeit": "60 Monate",
+      "gesundheitserklärung": "DFE",
+      "beitragsdynamik": "0 - 3%,
       "hv-airbag": null,
       "freie_phase": null,
       "gebundene_phase": null,
-      "karriereplus": null
+      "karriereplus": "nein"
     },
     "matching": {
       "berufe": ["A", "B"],
@@ -418,15 +418,15 @@
     "typ": "SBU",
     "schicht": 3,
     "info": {
-      "leistungsumfang": "individuell",
-      "abkommensnummer": "60 Monate",
-      "wartezeit": "DFE",
-      "gesundheitserklärung": "0 - 3%",
-      "beitragsdynamik": null,
+      "leistungsumfang": "",
+      "abkommensnummer": "individuell",
+      "wartezeit": "60 Monate",
+      "gesundheitserklärung": "DFE",
+      "beitragsdynamik": "0 - 3%,
       "hv-airbag": null,
       "freie_phase": null,
       "gebundene_phase": null,
-      "karriereplus": null
+      "karriereplus": "nein"
     },
     "matching": {
       "berufe": ["A", "B"],
