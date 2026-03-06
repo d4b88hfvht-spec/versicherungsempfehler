@@ -13,6 +13,7 @@
       "freie_phase": null,
       "gebundene_phase": null,
       "karriereplus": null
+      "max_rente_display": null
     },
     "matching": {
       "berufe": null,
@@ -36,6 +37,7 @@
       "freie_phase": null,
       "gebundene_phase": null,
       "karriereplus": null
+      "max_rente_display": null
     },
     "matching": {
       "berufe": null,
@@ -59,6 +61,7 @@
       "freie_phase": null,
       "gebundene_phase": null,
       "karriereplus": null
+      "max_rente_display": null
     },
     "matching": {
       "berufe": null,
@@ -82,13 +85,14 @@
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
+      "max_rente_display": "2.500 EUR"
     },
     "matching": {
       "berufe": null,
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 55,
-      "max_rente": "2.500 EUR"
+      "max_rente": "2500"
     }
   },
   {
@@ -105,13 +109,14 @@
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "ja"
+      "max_rente_display": "2.000 EUR"
     },
     "matching": {
       "berufe": null,
       "berufe_nicht": ["Schüler"],
       "alter_min": 18,
       "alter_max": 30,
-      "max_rente": "2.000 EUR"
+      "max_rente": 2000
     }
   },
   {
@@ -128,6 +133,7 @@
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
+      "max_rente_display": "2.000 EUR"
     },
     "matching": {
       "berufe": ["Steuerberater"],
@@ -151,13 +157,14 @@
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
+      "max_rente_display": "2.500 EUR"
     },
     "matching": {
       "berufe": ["Steuerberater"],
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 60,
-      "max_rente": "2.500 EUR"
+      "max_rente": 2500
     }
   },
   {
@@ -174,13 +181,14 @@
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
+      "max_rente_display": "2.000 EUR"
     },
     "matching": {
       "berufe": ["Steuerberater"],
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 55,
-      "max_rente": "2.000 EUR"
+      "max_rente": 2000
     }
   },
   {
@@ -197,13 +205,14 @@
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
+      "max_rente_display": "2.000 EUR"
     },
     "matching": {
       "berufe": ["Rechtsanwalt", "Jurist", "Notar", "Richter", "Staatsanwalt"],
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 55,
-      "max_rente": "2.000 EUR"
+      "max_rente": 2000
     }
   },
   {
@@ -220,13 +229,14 @@
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
+      "max_rente_display": "2.500 EUR"
     },
     "matching": {
       "berufe": ["Rechtsanwalt", "Jurist", "Notar", "Richter", "Staatsanwalt"],
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 60,
-      "max_rente": "2.500 EUR"
+      "max_rente": 2500
     }
   },
   {
@@ -243,13 +253,14 @@
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
+      "max_rente_display": "2.000 EUR"
     },
     "matching": {
       "berufe": ["Rechtsanwalt", "Jurist", "Notar", "Richter", "Staatsanwalt"],
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 55,
-      "max_rente": "2.000 EUR"
+      "max_rente": 2000
     }
   },
   {
@@ -266,13 +277,14 @@
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
+      "max_rente_display": "2.500 EUR"
     },
     "matching": {
       "berufe": ["Allgemeinmediziner", "Radiologe", "Apotheker"],
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 49,
-      "max_rente": "2.500 EUR"
+      "max_rente": 2500
     }
   },
   {
@@ -289,13 +301,14 @@
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
+      "max_rente_display": "2.500 EUR"
     },
     "matching": {
       "berufe": ["Allgemeinmediziner", "Radiologe", "Apotheker"],
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 49,
-      "max_rente": "2.500 EUR"
+      "max_rente": 2500
     }
   },
   {
@@ -312,13 +325,14 @@
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
+      "max_rente_display": "2.500 EUR"
     },
     "matching": {
       "berufe": ["Allgemeinmediziner", "Radiologe", "Apotheker"],
       "berufe_nicht": null,
       "alter_min": 18,
       "alter_max": 49,
-      "max_rente": "2.500 EUR"
+      "max_rente": 2500
     }
   },
   {
@@ -335,13 +349,14 @@
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
+      "max_rente_display": "2.000 EUR"
     },
     "matching": {
       "berufe": ["A", "B", "C"],
       "berufe_nicht": ["Schüler"],
       "alter_min": 18,
       "alter_max": 55,
-      "max_rente": "2.000 EUR"
+      "max_rente": 2000
     }
   },
   {
@@ -358,13 +373,14 @@
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
+      "max_rente_display": "2.500 EUR"
     },
     "matching": {
       "berufe": ["A", "B", "C"],
       "berufe_nicht": ["Schüler"],
       "alter_min": 18,
       "alter_max": 60,
-      "max_rente": "2.500 EUR"
+      "max_rente": 2500
     }
   },
   {
@@ -381,13 +397,14 @@
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
+      "max_rente_display": "2.000 EUR"
     },
     "matching": {
       "berufe": ["A", "B", "C"],
       "berufe_nicht": ["Schüler"],
       "alter_min": 18,
       "alter_max": 55,
-      "max_rente": "2.000 EUR"
+      "max_rente": 2000
     }
   },
   {
@@ -404,13 +421,14 @@
       "freie_phase": "nein",
       "gebundene_phase": "nein",
       "karriereplus": "nein"
+      "max_rente_display": "2.500 EUR"
     },
     "matching": {
       "berufe": ["A", "B"],
       "berufe_nicht": ["Schüler"],
       "alter_min": 18,
       "alter_max": 60,
-      "max_rente": "2.500 EUR"
+      "max_rente": 2500
     }
   },
   {
@@ -427,13 +445,14 @@
       "freie_phase": "nein",
       "gebundene_phase": "nein",
       "karriereplus": "nein"
+      "max_rente_display": "2.000 EUR"
     },
     "matching": {
       "berufe": ["A", "B"],
       "berufe_nicht": ["Schüler"],
       "alter_min": 18,
       "alter_max": 55,
-      "max_rente": "2.000 EUR"
+      "max_rente": 2000
     }
   }
 ]
