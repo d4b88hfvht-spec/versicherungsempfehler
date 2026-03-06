@@ -95,9 +95,9 @@ label, .stTextInput label, .stNumberInput label, .stSelectbox label {
 """, unsafe_allow_html=True)
 
 # HDI Logo
-st.markdown(
-    '<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWAAAACPCAMAAADz2vGdAAA..." style="width:180px; margin-bottom:25px;">',
-    unsafe_allow_html=True
+st.image("HDI-Logo.svg.png", width=180)
+st.markdown("<div style='margin-bottom:25px;'></div>", unsafe_allow_html=True)
+
 )
 
 st.title("Versicherungsempfehler – Prototyp")
