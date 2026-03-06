@@ -2,7 +2,7 @@
   {
     "name": "BUZ-B Gold",
     "typ": "BUZ-B",
-    "schicht": 1,
+    "schicht": 3,
     "info": {
       "leistungsumfang": "350 EUR max. Zahlbeitrag",
       "abkommensnummer": "nicht erforderlich",
@@ -25,7 +25,7 @@
   {
     "name": "BUZ-B Basis",
     "typ": "BUZ-B",
-    "schicht": 3,
+    "schicht": 1,
     "info": {
       "leistungsumfang": "350 EUR max. Zahlbeitrag",
       "abkommensnummer": "nicht erforderlich",
@@ -96,12 +96,12 @@
     "typ": "SBU",
     "schicht": 3,
     "info": {
-      "leistungsumfang": null,
+      "leistungsumfang": "",
       "abkommensnummer": "44-1065434",
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 5%",
-      "hv-airbag": null,
+      "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "ja"
@@ -119,7 +119,7 @@
     "typ": "BUZ-BR",
     "schicht": 1,
     "info": {
-      "leistungsumfang": null,
+      "leistungsumfang": "",
       "abkommensnummer": "je nach Verband",
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
@@ -142,12 +142,12 @@
     "typ": "BUZ-BR",
     "schicht": 2,
     "info": {
-      "leistungsumfang": null,
+      "leistungsumfang": "",
       "abkommensnummer": "je nach Verband",
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 10%",
-      "hv-airbag": null,
+      "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
@@ -165,12 +165,12 @@
     "typ": "SBU",
     "schicht": 3,
     "info": {
-      "leistungsumfang": null,
+      "leistungsumfang": "",
       "abkommensnummer": "Je nach Verband",
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 5%",
-      "hv-airbag": null,
+      "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
@@ -216,7 +216,7 @@
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 10%",
-      "hv-airbag": null,
+      "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
@@ -239,7 +239,7 @@
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 5%",
-      "hv-airbag": null,
+      "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
@@ -285,7 +285,7 @@
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 10%",
-      "hv-airbag": null,
+      "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
@@ -308,7 +308,7 @@
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "0 - 5%",
-      "hv-airbag": null,
+      "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
@@ -354,7 +354,7 @@
       "wartezeit": "keine",
       "gesundheitserklärung": "vereinfacht",
       "beitragsdynamik": "BBG",
-      "hv-airbag": null,
+      "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
       "karriereplus": "nein"
@@ -400,9 +400,9 @@
       "wartezeit": "60 Monate",
       "gesundheitserklärung": "DFE",
       "beitragsdynamik": "0 - 3%,
-      "hv-airbag": null,
-      "freie_phase": null,
-      "gebundene_phase": null,
+      "hv-airbag": "",
+      "freie_phase": "nein",
+      "gebundene_phase": "nein",
       "karriereplus": "nein"
     },
     "matching": {
@@ -423,9 +423,9 @@
       "wartezeit": "60 Monate",
       "gesundheitserklärung": "DFE",
       "beitragsdynamik": "0 - 3%,
-      "hv-airbag": null,
-      "freie_phase": null,
-      "gebundene_phase": null,
+      "hv-airbag": "",
+      "freie_phase": "nein",
+      "gebundene_phase": "nein",
       "karriereplus": "nein"
     },
     "matching": {
