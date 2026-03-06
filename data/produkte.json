@@ -12,7 +12,7 @@
       "hv-airbag": "0 - 5%",
       "freie_phase": null,
       "gebundene_phase": null,
-      "karriereplus": null
+      "karriereplus": null,
       "max_rente_display": null
     },
     "matching": {
@@ -36,7 +36,7 @@
       "hv-airbag": "0 - 5%",
       "freie_phase": null,
       "gebundene_phase": null,
-      "karriereplus": null
+      "karriereplus": null,
       "max_rente_display": null
     },
     "matching": {
@@ -60,7 +60,7 @@
       "hv-airbag": null,
       "freie_phase": null,
       "gebundene_phase": null,
-      "karriereplus": null
+      "karriereplus": null,
       "max_rente_display": null
     },
     "matching": {
@@ -84,7 +84,7 @@
       "hv-airbag": "0 - 5%",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
-      "karriereplus": "nein"
+      "karriereplus": "nein",
       "max_rente_display": "2.500 EUR"
     },
     "matching": {
@@ -108,7 +108,7 @@
       "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
-      "karriereplus": "ja"
+      "karriereplus": "ja",
       "max_rente_display": "2.000 EUR"
     },
     "matching": {
@@ -132,7 +132,7 @@
       "hv-airbag": "0 - 10%",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
-      "karriereplus": "nein"
+      "karriereplus": "nein",
       "max_rente_display": "2.000 EUR"
     },
     "matching": {
@@ -156,7 +156,7 @@
       "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
-      "karriereplus": "nein"
+      "karriereplus": "nein",
       "max_rente_display": "2.500 EUR"
     },
     "matching": {
@@ -180,7 +180,7 @@
       "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
-      "karriereplus": "nein"
+      "karriereplus": "nein",
       "max_rente_display": "2.000 EUR"
     },
     "matching": {
@@ -204,7 +204,7 @@
       "hv-airbag": "0 - 10%",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
-      "karriereplus": "nein"
+      "karriereplus": "nein",
       "max_rente_display": "2.000 EUR"
     },
     "matching": {
@@ -228,7 +228,7 @@
       "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
-      "karriereplus": "nein"
+      "karriereplus": "nein",
       "max_rente_display": "2.500 EUR"
     },
     "matching": {
@@ -252,7 +252,7 @@
       "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
-      "karriereplus": "nein"
+      "karriereplus": "nein",
       "max_rente_display": "2.000 EUR"
     },
     "matching": {
@@ -276,7 +276,7 @@
       "hv-airbag": "0 - 10%",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
-      "karriereplus": "nein"
+      "karriereplus": "nein",
       "max_rente_display": "2.500 EUR"
     },
     "matching": {
@@ -300,7 +300,7 @@
       "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
-      "karriereplus": "nein"
+      "karriereplus": "nein",
       "max_rente_display": "2.500 EUR"
     },
     "matching": {
@@ -324,7 +324,7 @@
       "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
-      "karriereplus": "nein"
+      "karriereplus": "nein",
       "max_rente_display": "2.500 EUR"
     },
     "matching": {
@@ -348,7 +348,7 @@
       "hv-airbag": "0 - 10%",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
-      "karriereplus": "nein"
+      "karriereplus": "nein",
       "max_rente_display": "2.000 EUR"
     },
     "matching": {
@@ -372,7 +372,7 @@
       "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
-      "karriereplus": "nein"
+      "karriereplus": "nein",
       "max_rente_display": "2.500 EUR"
     },
     "matching": {
@@ -396,7 +396,7 @@
       "hv-airbag": "0 - 10%",
       "freie_phase": "nein",
       "gebundene_phase": "ja",
-      "karriereplus": "nein"
+      "karriereplus": "nein",
       "max_rente_display": "2.000 EUR"
     },
     "matching": {
@@ -420,7 +420,7 @@
       "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "nein",
-      "karriereplus": "nein"
+      "karriereplus": "nein",
       "max_rente_display": "2.500 EUR"
     },
     "matching": {
@@ -444,7 +444,7 @@
       "hv-airbag": "",
       "freie_phase": "nein",
       "gebundene_phase": "nein",
-      "karriereplus": "nein"
+      "karriereplus": "nein",
       "max_rente_display": "2.000 EUR"
     },
     "matching": {
