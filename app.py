@@ -98,10 +98,7 @@ label, .stTextInput label, .stNumberInput label, .stSelectbox label {
 st.image("logo.png", width=180)
 st.markdown("<div style='margin-bottom:25px;'></div>", unsafe_allow_html=True)
 
-)
-
 st.title("Versicherungsempfehler – Prototyp")
-
 st.header("Profil eingeben")
 
 beruf = st.text_input("Beruf")
@@ -120,7 +117,14 @@ def render_produktkarte(p, score):
             return ""
         return f'<div class="info-item"><span class="info-label">{label}:</span> {value}</div>'
 
-    html = f'''<div class="produkt-card">
+    # Keys mit Bindestrich vorher extrahieren
+    hv_airbag = info.get("hv-airbag")
+    freie_phase = info.get("freie_phase")
+    gebundene_phase = info.get("gebundene_phase")
+    karriereplus = info.get("karriereplus")
+
+    html = f'''
+<div class="produkt-card">
 <h3>{p['name']} <span class="score-badge">{score}</span></h3>
 
 <div class="section-title"><span>📦</span><span>Leistungsumfang</span></div>
@@ -139,13 +143,14 @@ def render_produktkarte(p, score):
 
 <div class="section-title"><span>✨</span><span>Besondere Merkmale</span></div>
 <div class="info-grid">
-{row("HV-Airbag", info.get("hv-airbag"))}
-{row("Freie Phase", info.get("freie_phase"))}
-{row("Gebundene Phase", info.get("gebundene_phase"))}
-{row("KarrierePlus", info.get("karriereplus"))}
+{row("HV-Airbag", hv_airbag)}
+{row("Freie Phase", freie_phase)}
+{row("Gebundene Phase", gebundene_phase)}
+{row("KarrierePlus", karriereplus)}
 </div>
 
-</div>'''
+</div>
+'''
 
     st.markdown(html, unsafe_allow_html=True)
 
